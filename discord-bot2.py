@@ -113,4 +113,4 @@ async def bot_quit(ctx):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run("ODYwMzY2MDQxNDk4Nzc5Njg5.YN6MUQ.qJSQ0KEuyoerNwl4S2gR4-J9LtI")
+client.run("Your Token")
